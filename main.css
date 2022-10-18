@@ -1,0 +1,29 @@
+h1 {
+    color: red
+}
+
+h2 {
+    color: blue
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 2%
+}
+
+.textCours {
+    font-size: x-large;
+    color: yellow
+}
+
+a:link {
+    font-size: x-large
+}
+
+a:active {
+    font-size:x-small
+}
+
+img {
+    
+}

@@ -1,0 +1,23 @@
+header {
+    float: right;
+}
+
+.menu1 a {
+    border: solid;
+    border-bottom: 10px solid;
+    padding-left: 4px;
+    padding-right: 4px;
+    float: right;
+}
+
+img {
+    float: left;
+    width: 30%;
+    height: 30%;
+}
+
+#accueil {
+ text-align: justify;
+ margin: 10px;
+}
+
